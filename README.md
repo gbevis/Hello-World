@@ -1,6 +1,3 @@
 # Hello-World
-Practice
-
-Gotta see if I can get my github on. 
-Something has to make a new line
-That something is a hippopatomouse
+This is a more serious entrance to github
+so i can access spin2 code
